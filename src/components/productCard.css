@@ -1,0 +1,53 @@
+/* product cards */
+#product-cards{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 100px;
+
+   
+}
+#product-cards .card{
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    
+}
+#product-cards h1{
+    margin-top: 30px;
+    color: #1c1c50;
+    text-shadow: 1px 1px 1px black;
+}
+#product-cards h3{
+    letter-spacing: 3px;
+    color: #1c1c50;
+    text-shadow: 0px 1px 1px black;
+    font-weight: bold;
+}
+#product-cards h5 span{
+    float: right;
+    color: #1c1c50;
+    cursor: pointer;
+}
+.checked{
+    color: rgb(255, 187, 0);
+}
+#viewmorebtn{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    text-decoration: none;
+    margin-top: 30px;
+    width: 200px;
+    height: 32px;
+    color: #1c1c50;
+    letter-spacing: 5px;
+    font-weight: bold;
+    background: transparent;
+    border: 2px solid #1c1c50;
+    transition: 0.5s ease;
+}
+#viewmorebtn:hover{
+    background-color: #1c1c50;
+    color: white;
+}
+h5{
+    color:#1c1c50;
+}
+/* product cards */

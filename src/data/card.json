@@ -1,0 +1,124 @@
+{
+    "products":[
+        {
+        "id": "1",
+        "imgSrc" :"/assest/images/CAM_0916_533x.webp",
+        "title": "3 Piece Cambric Suit-Embroidered (Unstitched)",
+        "description": "Printed shirt with embroidered front 1 piece printed back and sleeves",
+        "Ddetails": "  Printed dupatta",
+        "Tdetail": " Dyed trouser ",
+        "prize": "3,899"
+     },
+{
+    "id": "2",
+    "imgSrc" :"/assest/images/CAM_0849.webp",
+    "title": "3 Piece Cambric Suit-Embroidered (Unstitched)",
+    "description": "Printed shirt with embroidered front 1 piece printed back and sleeves",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,899"
+
+},
+{
+        "id": "3",
+        "imgSrc" :"/assest/images/CAM_1085_533x.webp",
+        "title": "3 Piece Cambric Suit-Embroidered (Unstitched)",
+        "description": "Printed shirt with embroidered front 1 piece printed back and sleeves",
+        "Ddetails": "  Printed dupatta",
+        "Tdetail": " Dyed trouser ",
+        "prize": "3,999"
+},
+{
+    "id":"4",
+    "imgSrc":"/assest/images/CAM.webp",
+    "title":"3 Piece Cambric Suit-Embroidered (Unstitched)",
+    "description":"Printed shirt with embroidered front 1 piece printed back and sleeves",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,999"
+
+},
+{
+    "id":"5",
+    "imgSrc":"/assest/images/a.webp",
+    "title":"3 Piece Cambric Suit-Embroidered (Unstitched)",
+    "description":"Printed shirt with embroidered front panel 1 piece printed back and sleeves",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,899"
+
+},
+{
+    "id":"6",
+    "imgSrc":"/assest/images/CAM_9367.jpg",
+    "title":"3 Piece Cambric Suit-Printed (Unstitched)",
+    "description":"Featuring a printed shirt with a traditional and ethnic floral design on the front and back",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,499"
+
+},
+{
+    "id":"7",
+    "imgSrc":"/assest/images/b.jpg",
+    "title":"3 Piece Lawn Suit-Embroidered (Unstitched)",
+    "description":"Tarkashi and phulkari embroidery creates an interesting texture with cooper pasting Embroidered neck panel with tarkashi work (0.55 meters)",
+    "Ddetails": "  Zari detailing on the dupatta (2.75 meters) ",
+    "Tdetail": " Cooper pasted pattern on the trousers/shalwar (2.5 meters) ",
+    "prize": "7,000"
+
+},
+{
+    "id":"8",
+    "imgSrc":"/assest/images/c.webp",
+    "title":"2 Piece Velvet Suit-Embroidered (Unstitched)",
+    "description":"Embroidered front, Embroidered sleeves ,Embroidered neck patti",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Velvet ",
+    "prize": "6,899"
+
+},
+{
+    "id":"9",
+    "imgSrc":"/assest/images/572.webp",
+    "title":"2 Piece Velvet Suit-Embroidered (Unstitched)",
+    "description":"Embroidered front, Embroidered sleeves ,Embroidered neck patti",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Velvet ",
+    "prize": "6,499"
+
+},
+{
+    "id":"10",
+    "imgSrc":"/assest/images/1.webp",
+    "title":"Raw Lawn Shirt-Embroidered (Pret)",
+    "description":"Printed A-line short shirt with mirror embroidery",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,899"
+
+},
+{
+    "id":"11",
+    "imgSrc":"/assest/images/CAM_3178.webp",
+    "title":"Texture Lawn Shirt-Embroidered (Pret)",
+    "description":"Panelled pleated frock with mirror embroidery and tassel cuffs",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Dyed trouser ",
+    "prize": "3,899"
+
+},
+{
+    "id":"12",
+    "imgSrc":"/assest/images/g.webp",
+    "title":"2 Piece Lawn Suit With Bolero-Gold Paste Print",
+    "description":"PGold paste print bolero jacket with mirror embroidery Sleeveless A-line inner shirt with gold paste print ",
+    "Ddetails": "  Printed dupatta",
+    "Tdetail": " Narrow-leg trouser ",
+    "prize": "3,899"
+
+}
+]
+}
+
+   
